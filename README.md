@@ -10,7 +10,7 @@ This project is divided into three sub steps:
 
 Each of which can be found in seperate folders in the repository.
 
-***Model Concept***
+***Model Concept***:
 1) The first part of this model is based on a regression trained neural net aiming to predict portfolio yield from a large dataset of historical portfolios. The data for training the neural net is generated in step 1.
 2) Once the neural net is trained, the network is passed through a progressive gradient learning function to optimize predicted yield of a given portfolio. 
 ![alt text](<TrProg.png>)

@@ -17,7 +17,7 @@ Securities = ['ZWC.TO','BNS.TO','ENCC.TO','FLT.V']
 MaxSteps = 30         #<- Number of vector steps the model will go through until end of optimization
 
 #Alpha
-Alpha = 0.7         #<- Weight given to new gradient when doing momentum weighted avg on each new step    (New Gradient*Alpha + Previous Gradient*(1-Alpha))
+Alpha = 0.5         #<- Weight given to new gradient when doing momentum weighted avg on each new step    (New Gradient*Alpha + Previous Gradient*(1-Alpha))
 
 #_________________________________________________________
 

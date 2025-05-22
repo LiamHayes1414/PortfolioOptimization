@@ -7,7 +7,7 @@ def Report(a,W):
     Score = {"Metric": "Market Return", "Value":a.Optimal(W).numpy()}
 
     # Weights
-    weights = {"Metric": "Weights", "Value": list(W)}
+    weights = {"Metric": "Weights", "Value": list(W)} 
 
     # Combine all into a DataFrame
     df = pd.DataFrame([Score,weights])
