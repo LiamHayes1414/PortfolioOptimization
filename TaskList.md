@@ -1,0 +1,2 @@
+1) Double check that vector learning constraints in gradient function is best process it can be and will not prepetually be stuck in fixing loop
+2) Add other features to dataset gen (inflation, lending rates etc..)
