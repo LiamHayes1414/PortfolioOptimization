@@ -1,4 +1,4 @@
-**Project Description**:                                                                                                                                                    Created By: Liam Hayes
+**Project Description**:
 
 The main objective of this project is to optimize portfolio allocation for highest potential performance. The end return will be a allocation vector (W) indicating the projected optimal allocation amoungst securities in the portfolio.
 
